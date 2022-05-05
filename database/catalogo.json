@@ -1,0 +1,41 @@
+ [
+    {
+    "codigo": 1,
+    "titulo": "Hacksaw Ridge", 
+    "duracao": 1.4,
+    "atores": ["Andrew Garfield", "Sam Worthington", "Luke Bracey"],
+    "anoDeLancamento": 2016,
+    "emCartaz": true
+},
+{
+    "codigo": 2,
+    "titulo":"FireProof", 
+    "duracao": 122,
+    "atores": ["Kirk Cameron, Erin Bethea, Ken Bevel"],
+    "anoDeLancamento": 2008,
+    "emCartaz": false
+},
+ {  
+     "codigo": 2,
+    "titulo":"FireProof2", 
+    "duracao": 5,
+    "atores": ["Kirk Cameron, Erin Bethea, Ken Bevel"],
+    "anoDeLancamento": 2008,
+    "emCartaz": false
+},
+{
+    "codigo": 2,
+    "titulo":"FireProof3", 
+    "duracao": 4,
+    "atores": ["Kirk Cameron, Erin Bethea, Ken Bevel"],
+    "anoDeLancamento": 2008,
+    "emCartaz": false
+}
+]
+
+
+
+
+
+
+
