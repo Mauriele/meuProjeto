@@ -15,16 +15,15 @@ function buscarFilme(codigo) {
     })
 }
 const listarTodosOsFilmes = () => {
-    for(let i = 0; i < filmes.length; i++) {
-        const filme = filmes[i];
-
+    filmes.forEach((filme) => {
+        
         console.log(`
         Filme: ${filme.titulo}
         Lançou no ano: ${filme.anoLancamento}
         ${filme.emCartaz ? 'Filme esta em cartaz' : 'Filme nao esta em cartaz'}
      `)
 
-    }
+    })
 }
 listarTodosOsFilmes();
 
