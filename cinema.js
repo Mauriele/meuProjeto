@@ -58,6 +58,7 @@ adicionarFilme({
     emCartaz: false
 });
 
+
 // const filmeEncontrado = buscarFilme(2);
 
 // filmeEncontrado.emCartaz = !filmeEncontrado.emCartaz
